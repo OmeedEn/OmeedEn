@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OmeedEn
+- 👋 Hi, I’m Omeed Enshaie
 - 👀 I’m interested in developing code for the public
 - 🌱 I’m currently learning Computer Sceince at Cal State Long Beach
 - 💞️ I’m looking to collaborate on projects to further my knowledge and become a better software engineer
