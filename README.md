@@ -1,6 +1,6 @@
 👋 Hi, I’m Omeed Enshaie
 
-👀 I’m interested in developing code for the public
+👀 I am a builder
 
 🎓 I graduated with a Bachelor’s in Computer Science from Cal State Long Beach (CSULB)
 
